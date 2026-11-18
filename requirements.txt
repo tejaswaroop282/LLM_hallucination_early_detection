@@ -1,0 +1,10 @@
+# Minimum versions. Tested on Google Colab (Python 3.13, T4 GPU) with its preinstalled/latest versions.
+# For CUDA builds of torch on your own machine, install torch first from https://pytorch.org/get-started/locally/
+torch>=2.1
+transformers>=4.44
+accelerate>=0.30
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+gradio>=4.0
+jupyterlab>=4.0

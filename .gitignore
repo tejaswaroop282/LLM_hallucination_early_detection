@@ -1,0 +1,9 @@
+# data and work files are re-created by the notebook
+data/*
+!data/.gitkeep
+work/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
